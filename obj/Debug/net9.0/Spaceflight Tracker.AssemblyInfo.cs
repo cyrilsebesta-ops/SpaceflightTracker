@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Spaceflight Tracker")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7dbe4c4e626209c7b3f9dca7af6bcbb74db65011")]
 [assembly: System.Reflection.AssemblyProductAttribute("Spaceflight Tracker")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Spaceflight Tracker")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
