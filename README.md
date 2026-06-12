@@ -14,3 +14,7 @@
 |---|---|
 | Language | **[C#](https://dotnet.microsoft.com/en-us/languages/csharp)**
 | IDE | **[Jetbrains Rider](https://www.jetbrains.com/rider/)**
+
+---
+**Author:** Cyril Šebesta  
+**Subject:** Programming
