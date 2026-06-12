@@ -1,6 +1,6 @@
 # Spaceflight Tracker
 
-> **Spaceflight Tracker** - is a C# console application that displays information about space missions and rocket launches. Users can use commands to view the next upcoming launch, active missions, historical missions, or details of a specific mission. Data will be retrieved from a public API, and some sample data will be stored locally within classes.
+> **Spaceflight Tracker** - is a C# console application that displays information about space missions and rocket launches. Users can use commands to view the next upcoming launch, active missions, historical missions, or details of a specific mission. Data will be retrieved from a public API, and some sample data will be stored locally within classes. </p>
 
 ## Features
 - Upcoming Rocket Launches
@@ -12,4 +12,4 @@
 | Area | Technology |
 |---|---|
 | Language | **[C#](https://dotnet.microsoft.com/en-us/languages/csharp)**
-| IDE | **[Jetbrains Rider](https://www.jetbrains.com/rider/)** |
+| IDE | **[Jetbrains Rider](https://www.jetbrains.com/rider/)**
